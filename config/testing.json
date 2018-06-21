@@ -1,0 +1,4 @@
+{
+    "appplicationName": "Resources App Testing",
+    "resources": [{"id": 1, "name": "resource1"},{"id": 2, "name": "resource2"}]
+}
